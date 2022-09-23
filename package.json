@@ -1,0 +1,18 @@
+{
+  "name": "peepobot",
+  "version": "1.0.0",
+  "description": "peepobot is a Discord bot for the peepo development environment",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/daltonco/PeepoBot"
+  },
+  "author": "Colton Dalton",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.4.0"
+  }
+}
